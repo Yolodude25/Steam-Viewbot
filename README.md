@@ -1,4 +1,5 @@
 # Steam Viewbot
+s/o to yani for the help
 a viewbot that was nabbed because i could, and valve didnt care or respond to their security email and didnt want to fix it.
 
 ## Why are you releasing this?
