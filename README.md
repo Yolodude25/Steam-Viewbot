@@ -3,7 +3,7 @@ s/o to yani for the help
 
 this is a viewbot that was nabbed because i could, and valve didnt care or respond to their security email and didnt want to fix it.
 
-the fake kqly and many other cheaters use the same methodology for this.
+the fake kqly and many other cheaters use the same methodology for this. i don't care about cs nor do i care about cheaters ruining the game anymore so hf with it and make your own versions if you want to.
 
 ## Why are you releasing this?
 i didn't want to do this but since valve didn't patch it and im leaving the cs community regardless, here i am feeding nors3 and his fanbase and his 10 girlfriends the clout he wants :D
