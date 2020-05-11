@@ -33,6 +33,6 @@ this requires nodejs and a list of proxies so download them.
 ## Conclusion
 hope you had fun being obsessed with me nors3, the interviews can suck it all as if i give a heck about anything when i literally said im done with cs. keep wasting your time on me man, and remember to munch on them doritos.
 
-Also, if you used this at all and you can then please donate to [@RyanAtRBM](https://twitter.com/RyanAtRBM/) charity of choice [Movember](https://us.movember.com/donate)
+Also, if you used this at all and you can then please donate to [@RyanAtRBM's](https://twitter.com/RyanAtRBM/) charity of choice [Movember](https://us.movember.com/donate)
 
 # Fin
