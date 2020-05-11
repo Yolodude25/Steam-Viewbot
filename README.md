@@ -18,11 +18,15 @@ This viewbot works by spamming a steam broadcast URL with requests from proxies,
 
 ## How do I use it?
 
-1) Enable Steam Broadcasting from the Steam Overlay (Settings -> Broadcasting)
+this requires nodejs and a list of proxies so download them.
 
-2) Either use index.js or old.js depending on the proxy location (if the proxy is located online on a website then use index.js otherwise download all the proxies and import them into proxies.json and use old.js, or just implement it yourself cuz no one cares and im not here to help, im here to feed the mf clout that nors3 wants), replace the "const target" value inside whichever file you are using with your SteamID64 which you are streaming from. You can even use another account that has steam community permissions enabled, for that simply enable broadcasting on that other account, join your friends GOTV stream (either the cl_join_advertise 2 method for official matchmaking or use a GOTV IP) and start streaming from the GOTV connection.
+1) download this whole repo as a zip, i was lazy and i didnt remove the node_modules folder so hf with that.
 
-3) Profit??? (Watch as the proxies requests go through and your viewers will show up on the scoreboard, may take some time tho)
+2) Enable Steam Broadcasting from the Steam Overlay (Settings -> Broadcasting)
+
+3) Either use index.js or old.js depending on the proxy location (if the proxy is located online on a website then use index.js otherwise download all the proxies and import them into proxies.json and use old.js, or just implement it yourself cuz no one cares and im not here to help, im here to feed the mf clout that nors3 wants), replace the "const target" value inside whichever file you are using with your SteamID64 which you are streaming from. You can even use another account that has steam community permissions enabled, for that simply enable broadcasting on that other account, join your friends GOTV stream (either the cl_join_advertise 2 method for official matchmaking or use a GOTV IP) and start streaming from the GOTV connection.
+
+4) Profit??? (Watch as the proxies requests go through and your viewers will show up on the scoreboard, may take some time tho)
 
 ## Conclusion
 hope you had fun being obsessed with me nors3, the interviews can suck it all as if i give a heck about anything when i literally said im done with cs. keep wasting your time on me man, and remember to munch on them doritos.
