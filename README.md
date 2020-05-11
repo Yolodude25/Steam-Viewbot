@@ -1,6 +1,7 @@
 # Steam Viewbot
 s/o to yani for the help
-a viewbot that was nabbed because i could, and valve didnt care or respond to their security email and didnt want to fix it.
+
+this is a a viewbot that was nabbed because i could, and valve didnt care or respond to their security email and didnt want to fix it.
 
 ## Why are you releasing this?
 i didn't want to do this but since valve didn't patch it and im leaving the cs community regardless, here i am feeding nors3 and his fanbase and his 10 girlfriends the clout he wants :D
