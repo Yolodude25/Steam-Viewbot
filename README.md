@@ -4,26 +4,21 @@
 
 s/o to yani for the help
 
-this is a viewbot that was nabbed because i could, and valve didnt care or respond to their security email and didnt want to fix it.
+This is a viewbot that was nabbed. It was reported to Valve however Valve did not respond to their security emails.
 
-the fake kqly and many other cheaters use the same methodology for this. i don't care about cs nor do i care about cheaters ruining the game anymore so hf with it and make your own versions if you want to.
+The notorious "fake kqly" and many other cheaters use the same methodology for this. I don't care about CSGO anymore nor do I care about what goes on in CSGO anymore so as a parting gift I am releasing a few exploits that were ruining the community.
 
 ## Why are you releasing this?
-i didn't want to do this but since valve didn't patch it and im leaving the cs community regardless, here i am.
-
-shoutout to the insiders who were feeding nors3 as well. fuck valve, fuck cs, fuck ido, fuck nors3 and cheaters keep on cheating, hestianet isn't running anymore so don't worry about it.
-
-if you wanna keep your trustfactor high don't commendbot yourself with brand new accounts, use a hwid changer that intercepts requests to spoof the hwid data instead of a shitty one, make sure you don't go obvious as fuck, raging in any form especially wallbanging a lot = insta VACNet, spinning is detected and results in an autoban.
+I didn't want to do this but since Valve didn't patch it and I'm about to leave the CSGO community here I am releasing it.
 
 ## How does it work?
-This viewbot works by spamming a steam broadcast URL with requests from proxies, there are other methods so figure them out yourself, i reported every single possible method (as there's more than this) but valve don't care about anything that could affect their game, all they care about is people lying on twitter, gj ido
-
+This viewbot works by spamming a Steam Broadcast URL that is used to verify the viewercount with requests from proxies. There are other methods which are far easier to use than this but I suggest you figure them out yourself. All of the other methods were reported to Valve as well but there has been nothing done to fix those. If Valve is reading this and wants to learn more about the report I sent to them, please check 708258.
 
 ## How do I use it?
 
-this requires nodejs and a list of proxies so download them.
+This requires nodejs and a list of proxies.
 
-1) download this whole repo as a zip, i was lazy and i didnt remove the node_modules folder so hf with that.
+1) Download this whole repo as a ZIP or use git. I was lazy and I didn't remove the node_modules folder so hf with that.
 
 2) Enable Steam Broadcasting from the Steam Overlay (Settings -> Broadcasting)
 
@@ -34,6 +29,4 @@ this requires nodejs and a list of proxies so download them.
 ## Conclusion
 hope you had fun being obsessed with me nors3, the interviews can suck it all as if i give a heck about anything when i literally said im done with cs. keep wasting your time on me man, and remember to munch on them doritos.
 
-Also, if you used this at all and you can then please donate to [@RyanAtRBM's](https://twitter.com/RyanAtRBM/) charity of choice [Movember](https://us.movember.com/donate)
-
-# Fin
+Also, if you used this at all and you can then please donate to [@RyanAtRBM's](https://twitter.com/RyanAtRBM/) charity of choice [Movember](https://us.movember.com/donate) since everyone thinks that I am delusional for attempting to get this fixed.
