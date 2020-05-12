@@ -1,4 +1,7 @@
 # Steam Viewbot
+
+![CSGO Viewbot Screenshot](https://i.ibb.co/w403F4w/steam-s5bp7-Ag-SSM.png)
+
 s/o to yani for the help
 
 this is a viewbot that was nabbed because i could, and valve didnt care or respond to their security email and didnt want to fix it.
