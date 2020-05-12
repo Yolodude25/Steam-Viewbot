@@ -6,11 +6,9 @@ this is a viewbot that was nabbed because i could, and valve didnt care or respo
 the fake kqly and many other cheaters use the same methodology for this. i don't care about cs nor do i care about cheaters ruining the game anymore so hf with it and make your own versions if you want to.
 
 ## Why are you releasing this?
-i didn't want to do this but since valve didn't patch it and im leaving the cs community regardless, here i am feeding nors3 and his fanbase and his 10 girlfriends the clout he wants :D
+i didn't want to do this but since valve didn't patch it and im leaving the cs community regardless, here i am.
 
-here is the sauce code to the steam viewbot that i nabbed as well so suck it felix.
-
-shoutout to the insiders who were feeding nors3 as well hope you suck a fat one. fuck valve, fuck cs, fuck ido, fuck nors3 and cheaters keep on cheating, hestianet isn't running anymore so don't worry about it.
+shoutout to the insiders who were feeding nors3 as well. fuck valve, fuck cs, fuck ido, fuck nors3 and cheaters keep on cheating, hestianet isn't running anymore so don't worry about it.
 
 if you wanna keep your trustfactor high don't commendbot yourself with brand new accounts, use a hwid changer that intercepts requests to spoof the hwid data instead of a shitty one, make sure you don't go obvious as fuck, raging in any form especially wallbanging a lot = insta VACNet, spinning is detected and results in an autoban.
 
