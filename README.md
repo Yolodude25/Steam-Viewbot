@@ -2,7 +2,7 @@
 
 ![CSGO Viewbot Screenshot](https://i.ibb.co/w403F4w/steam-s5bp7-Ag-SSM.png)
 
-s/o to yani for the help
+s/o to yani and kalichan for the help
 
 This is a viewbot that was nabbed. It was reported to Valve however Valve did not respond to their security emails.
 
