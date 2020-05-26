@@ -1,10 +1,11 @@
-# Steam Viewbot
+# [SEEMS TO BE PATCHED] 
+## Steam Viewbot
 
 ![CSGO Viewbot Screenshot](https://i.ibb.co/w403F4w/steam-s5bp7-Ag-SSM.png)
 
 s/o to yani and kalichan for the help
 
-This is a viewbot that was nabbed. It was reported to Valve however Valve did not respond to their security emails.
+This was a viewbot that was nabbed. It was reported to Valve however Valve did not respond to their security emails and it was leaked. This seems to be patched now.
 
 The notorious "fake kqly" and many other cheaters use the same methodology for this. I don't care about CSGO anymore nor do I care about what goes on in CSGO anymore so as a parting gift I am releasing a few exploits that were ruining the community.
 
