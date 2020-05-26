@@ -1,5 +1,6 @@
 # [SEEMS TO BE PATCHED] 
-## Steam Viewbot
+
+# Steam Viewbot
 
 ![CSGO Viewbot Screenshot](https://i.ibb.co/w403F4w/steam-s5bp7-Ag-SSM.png)
 
